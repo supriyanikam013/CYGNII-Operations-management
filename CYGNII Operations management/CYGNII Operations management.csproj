@@ -231,7 +231,6 @@
     <Content Include="htmlpages\attendance_employee.html" />
     <Content Include="htmlpages\holidays.html" />
     <Content Include="htmlpages\HtmlPage1.html" />
-    <Content Include="htmlpages\leaves.html" />
     <Content Include="htmlpages\leaves_employee.html" />
     <Content Include="htmlpages\index.html" />
     <Content Include="htmlpages\leaves_settings.html" />
